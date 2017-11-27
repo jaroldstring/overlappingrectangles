@@ -5,6 +5,7 @@ function Polygon(x,y){
    this.aFillColor=color(random(255),random(255),random(255),random(255));
   
 //place first coordinates into array
+   //I need to make some more comments.
    this.sideArrayX=[this.xP];
    this.sideArrayY=[this.yP];
  //
